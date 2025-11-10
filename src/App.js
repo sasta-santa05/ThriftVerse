@@ -34,7 +34,7 @@ function App() {
   };
 
   return (
-    <Router basename="/ThriftVerse" >
+    <Router>
       <Layout cartCount={cart.length} user={currentUser} onLogout={handleLogout}>
         <Routes>
           <Route 
