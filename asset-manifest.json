@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ThriftVerse/static/css/main.375e9b6f.css",
+    "main.js": "/ThriftVerse/static/js/main.93f5a5a3.js",
+    "static/js/453.eb40ece0.chunk.js": "/ThriftVerse/static/js/453.eb40ece0.chunk.js",
+    "static/media/dress4.jpg": "/ThriftVerse/static/media/dress4.71b8585c09912297ed90.jpg",
+    "static/media/men6.jpg": "/ThriftVerse/static/media/men6.6cc9e2ab6401f1aea1b4.jpg",
+    "static/media/men3.jpg": "/ThriftVerse/static/media/men3.0b2e8e4eb570a7b80095.jpg",
+    "static/media/men4.jpg": "/ThriftVerse/static/media/men4.e10a638f3af31e91865f.jpg",
+    "static/media/dress6.jpg": "/ThriftVerse/static/media/dress6.4d14a14121c9b5b73f02.jpg",
+    "static/media/men5.jpg": "/ThriftVerse/static/media/men5.f37c3fdbdd174551f3f7.jpg",
+    "static/media/men1.jpg": "/ThriftVerse/static/media/men1.3cd71452386b055170a2.jpg",
+    "static/media/dress2.jpg": "/ThriftVerse/static/media/dress2.0c29dae0ceefd7b97ced.jpg",
+    "static/media/dress5.jpg": "/ThriftVerse/static/media/dress5.3298c9f8c079fbbb082c.jpg",
+    "static/media/dress3.jpg": "/ThriftVerse/static/media/dress3.9d41f386fc6741f3bf28.jpg",
+    "static/media/dress1.jpg": "/ThriftVerse/static/media/dress1.cdc615f47cf88713507b.jpg",
+    "static/media/men2.jpg": "/ThriftVerse/static/media/men2.533872f9e8fb85337d9e.jpg",
+    "index.html": "/ThriftVerse/index.html",
+    "main.375e9b6f.css.map": "/ThriftVerse/static/css/main.375e9b6f.css.map",
+    "main.93f5a5a3.js.map": "/ThriftVerse/static/js/main.93f5a5a3.js.map",
+    "453.eb40ece0.chunk.js.map": "/ThriftVerse/static/js/453.eb40ece0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375e9b6f.css",
+    "static/js/main.93f5a5a3.js"
+  ]
+}
