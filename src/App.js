@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import { HashRouter as Router, Routes, Route} from 'react-router-dom';
 import { allProducts } from './data/products';
 import Layout from './components/Layout';
 import HomePage from './pages/HomePage';
@@ -34,7 +34,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/ThriftVerse" >
       <Layout cartCount={cart.length} user={currentUser} onLogout={handleLogout}>
         <Routes>
           <Route 
